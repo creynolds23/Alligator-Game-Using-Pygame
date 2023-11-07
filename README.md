@@ -13,8 +13,8 @@ The main purpose of developing this software was to:
 * Learn about audio integration in games by adding sound effects and background music
 
 ## Software Demo Video
-If you would like to see a demonstration video and a walkthrough of the code, please check out the following YouTube video:
-[Alligator Game Demo Video]()
+If you would like to see a demonstration video and a walkthrough of the code, please check out the following video:
+[Alligator Game Demo Video](https://www.loom.com/share/1fb91be7423c47bb863f9af14a9d7693?sid=811686df-db4d-4464-a77d-558a01ccf6fa)
 
 # Development Environment
 During the development of this program, I used the following tools and technologies:
