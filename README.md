@@ -30,7 +30,7 @@ The following websites were helpful during the project:
 * [Freesound.org](https://freesound.org/): This webite helped provide great sound effects that are implemented into the game, especially the main game sound which was produced by humanoide9000
 
 # Future Work
-In the future, I have though about changing certain features and adding in the following areas:
+In the future, I have thought about changing certain features and adding in the following areas:
 
 * Implement more challenging levels or game modes for the players
 * Add a high-score tracker to encourage competetion
